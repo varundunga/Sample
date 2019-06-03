@@ -802,3 +802,64 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2019-05-31 21:20:44,979 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\eclipse-workspace\Sample\src\main\resources
 2019-05-31 21:20:44,983 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-05-31 21:20:44,984 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\eclipse-workspace\Sample\src\test\resources
+2019-06-03 15:23:34,016 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: src:Pageobject:0.0.1-SNAPSHOT @ C:\Users\vdunga\Downloads\Pageobject\pom.xml.
+2019-06-03 15:23:34,594 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Pageobject/src/main/java because it overlaps with /Pageobject/src
+2019-06-03 15:23:34,596 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Pageobject/src/test/java because it overlaps with /Pageobject/src
+2019-06-03 15:23:35,310 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:23:35,311 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\main\resources
+2019-06-03 15:23:35,313 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:23:35,313 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\test\resources
+2019-06-03 15:23:35,404 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-06-03 15:23:35,468 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: src:Pageobject:0.0.1-SNAPSHOT @ C:\Users\vdunga\Downloads\Pageobject\pom.xml.
+2019-06-03 15:23:36,023 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Pageobject/src/main/java because it overlaps with /Pageobject/src
+2019-06-03 15:23:36,025 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Pageobject/src/test/java because it overlaps with /Pageobject/src
+2019-06-03 15:23:36,369 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:23:36,369 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\main\resources
+2019-06-03 15:23:36,370 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:23:36,371 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\test\resources
+2019-06-03 15:23:36,437 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-06-03 15:23:36,568 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:23:36,568 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\main\resources
+2019-06-03 15:23:36,570 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:23:36,571 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\test\resources
+2019-06-03 15:25:25,703 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:25:25,707 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\main\resources
+2019-06-03 15:25:25,713 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:25:25,714 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\test\resources
+2019-06-03 15:26:50,787 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:26:50,787 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\main\resources
+2019-06-03 15:26:50,791 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:26:50,792 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\test\resources
+2019-06-03 15:28:34,580 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:28:34,581 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\main\resources
+2019-06-03 15:28:34,583 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:28:34,583 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\test\resources
+2019-06-03 15:28:48,659 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:28:48,660 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\main\resources
+2019-06-03 15:28:48,661 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:28:48,661 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\test\resources
+2019-06-03 15:33:26,926 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:33:26,926 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\main\resources
+2019-06-03 15:33:26,929 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:33:26,930 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\test\resources
+2019-06-03 15:34:30,107 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:34:30,108 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\eclipse-workspace\Sample\src\main\resources
+2019-06-03 15:34:30,110 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:34:30,110 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\eclipse-workspace\Sample\src\test\resources
+2019-06-03 15:44:28,011 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:44:28,012 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\main\resources
+2019-06-03 15:44:28,016 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 15:44:28,016 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\test\resources
+2019-06-03 16:08:15,697 [Worker-43: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\vdunga\eclipse-workspace\Pageobjectmodel\pom.xml
+2019-06-03 16:08:15,887 [Worker-43: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:Pageobjectmodel:0.0.1-SNAPSHOT @ C:\Users\vdunga\eclipse-workspace\Pageobjectmodel\pom.xml.
+2019-06-03 16:08:16,098 [Worker-43: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pageobjectmodel/src/main/java
+2019-06-03 16:08:16,107 [Worker-43: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pageobjectmodel/src/test/java
+2019-06-03 16:08:16,203 [Worker-43: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-06-03 16:08:16,889 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 16:08:16,890 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\eclipse-workspace\Pageobjectmodel\src\main\resources
+2019-06-03 16:08:16,892 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 16:08:16,892 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\eclipse-workspace\Pageobjectmodel\src\test\resources
+2019-06-03 16:11:38,100 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 16:11:38,103 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\main\resources
+2019-06-03 16:11:38,108 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-03 16:11:38,109 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vdunga\Downloads\Pageobject\src\test\resources
