@@ -54,12 +54,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="Test.Pageobjectmodel"/>
 			<item value="Test.Sample"/>
 		</list>
 		<list key="groupId">
 			<item value="Test"/>
 		</list>
 		<list key="artifactId">
+			<item value="Pageobjectmodel"/>
 			<item value="Sample"/>
 		</list>
 		<list key="projectNameTemplate">
