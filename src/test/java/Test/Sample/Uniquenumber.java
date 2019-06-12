@@ -9,43 +9,31 @@ public class Uniquenumber {
 		// TODO Auto-generated method stub
 
 		int a[]= {1,0,2,1,2,9,1,9,0};
-		/*ArrayList<Integer> al=new ArrayList<Integer>();
-		ArrayList<Integer> al1=new ArrayList<Integer>();*/
+		
 		HashMap<Integer,Integer> hm=new HashMap<Integer,Integer>();
  	for(int i=0;i<a.length;i++)
 		{
-			//if(!al.contains(a[i]))
-			if(!hm.containsValue(a[i]))
-			{
-			int counter=0;
-			for(int j=i;j<a.length;j++)
-			{
-				if(a[i]==a[j])
-					counter=counter+1;
-			}
-		
-			hm.put(a[i],counter);
-			counter=0;
 			
-			/*al.add(a[i]);
-			al1.add(counter)*/;
+			if(hm.containsKey(a[i]))
+			{
+			
+		
+			hm.put(a[i],hm.get(a[i])+1);
+			
+			
+			
 		
 			}	
+			else
+				hm.put(a[i], 1);
+				
 		}
-		hm.put(8, 8);
-		System.out.println(hm.keySet());
-		System.out.println(hm.values());
 		
+ 	System.out.println(hm.get(1));
 		hm.forEach((k,v)->{
 		System.out.println(k+"-"+v);
 		});
-		hm.put(8, 8);
 		
-		/*System.out.println(al);
-		System.out.println(al1);*/
-		
-		//[1, 0, 2, 9]
-		//[3, 2, 2, 2]
 		
 		
 	}
