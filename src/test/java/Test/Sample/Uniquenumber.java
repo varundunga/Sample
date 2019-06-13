@@ -29,7 +29,7 @@ public class Uniquenumber {
 				
 		}
 		
- 	System.out.println(hm.get(1));
+ 
 		hm.forEach((k,v)->{
 		System.out.println(k+"-"+v);
 		});
